@@ -1,0 +1,20 @@
+<?php @require 'header.php' ; ?>
+<hr >
+<div class="row">
+	<div class="col-md-3 col-md-offset-1">
+		<img class="img-responsive img-circle" src="images/faculties/fac.png"/><hr>
+		<h2>Dr. Prakash Chandra</h2>
+	</div>
+	<div class="col-md-6 col-md-offset-1">
+	<h2>From the desk of faculty Adviser</h2>
+		<p>In the modern scenario, where new ideas and innovations are valued more than ever, it is very essential for a person, whether a student or a professional, to be well-informed and well-connected in one's own field. For a technical institute like ours, this attains an even greater importance. Six months ago, it was with this frame of mind that myself and a group of second year students, on the behest of our respected Director, planned the establishment of student chapter of American Society of Mechanical Engineers. It gives me immense pleasure to state that we have been successful in our endeavour and today, we have a full-fledged student section of American Society of Mechanical Engineers in our institute. ASME is one of the oldest and probably the most accepted of all societies for Mechanical Engineers. The vast number of its members worldwide is testimony of its wide outreach. The benefits provided by it to our students like access to its vast e-library, online webinars, internships, scholarships and interaction to professionals worldwide will give them an extra edge when they step into the outside world.<hr></p>
+
+<p>At the local level, the members have the opportunity to participate in the various events and competitions coordinated by the society. Moreover, the student section is divided into various committees like Activities committee, Programs committee etc. and the working of these committees are undertaken by the members themselves, thus serving a training ground for the them and sharpening their managerial skills and work aptitude.<hr></p>
+
+<p>To make sure that each member receives full advantage of the opportunities to learn these skills we have tried to distribute the duties of different committees among all the members. Each member has been involved in at least one committee in one way or the other. Along with this, the junior students have been grouped with the senior ones so that they are able to imbibe the skills and abilities and when the time comes, are ready to hold the senior positions and take the society to a higher level. In the five months of this chapter's existence, a variety of events have already been coordinated by the society. These include educational trips to production facilities, workshops on designing softwares, hydro-powered rockets, quizzes etc. Our members have represented our institute in national conferences conducted by ASME. Apart from these, we have planned many other activities for the future. We are in talks with various industrial units to organize educational excursions to these on a regular basis.<hr></p>
+
+<p>As the Faculty Advisor of this section, it is my duty to acknowledge all the people who have put in their hard work and time to bring this chapter into existence. First of all, I thank our Director Prof. Asok De, who was the propelling force behind our efforts. I am highly indebted to Sri Manas Bihari Verma, Chairman, Board of Governors, NIT Patna for sparing his valuable time to inaugurate the society and sharing his experiences with us. I also thank Prof. S.K Verma, Dean (Student Welfare) for his support and suggestions. We look forward to his guidance in future as well. And last but not the least, I thank the students for the zeal they have shown since the inception of this student section. I am also sure that this society being the first of its kind in the institute will be a guiding light for such societies for other branches. <hr></p>
+	</div>
+</div>
+<?php @include 'subfooter.php'; ?>
+<?php @include 'footer.php'; ?>
